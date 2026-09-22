@@ -25,6 +25,7 @@ main {
     margin: 0 auto;
 }
 
+
 .intro {
     width: 100%;
     padding: 30px 0;
@@ -38,10 +39,6 @@ main {
     color: #5f5f5f;
 }
 
-.cards-container {
-    width: 100%;
-    font-size: 0;
-}
 
 .cards-container article {
     width: 100%;
@@ -49,7 +46,6 @@ main {
     border: 1px solid #bdbbbf;
     padding: 20px;
     margin-bottom: 16px;
-    font-size: 16px;
 }
 
 .cards-container article h3 {
@@ -60,6 +56,7 @@ main {
 .cards-container article p {
     color: #5f5f5f;
 }
+
 
 footer {
     width: 100%;
